@@ -1,0 +1,52 @@
+{
+  "headers": [
+    "Name",
+    "Title",
+    "Date",
+    "Edit"
+  ],
+  "mydata": [
+    {
+      "id": 0,
+      "name": "sidi",
+      "title": "scientist",
+      "date": "2009"
+    },
+    {
+      "id": 1,
+      "name": "yeslem",
+      "title": "doctor",
+      "date": "2015"
+    },
+    {
+      "id": 3,
+      "name": "Hamed",
+      "title": "Doctorat",
+      "date": "2023-05-25"
+    },
+    {
+      "id": 4,
+      "name": "Alem",
+      "title": "licenced",
+      "date": "2021-11-11"
+    },
+    {
+      "id": 5,
+      "name": "Ma'aloum",
+      "title": "licenced",
+      "date": "2020-09-11"
+    },
+    {
+      "id": 10,
+      "name": "zeinebou",
+      "title": "licenced",
+      "date": "2023-05-26"
+    },
+    {
+      "id": 11,
+      "name": "Mohamed Aly",
+      "title": "mastered",
+      "date": "2023-05-30"
+    }
+  ]
+}
